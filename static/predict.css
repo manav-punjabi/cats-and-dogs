@@ -1,0 +1,55 @@
+.nav{
+    position: absolute;
+    top:0px;
+    left: 0px;
+    right: 0px;
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+.name{
+    position: absolute;
+    top:-10px;
+    margin-left:43% ;
+    font-size: 25px;
+    font-family: serif ;
+}
+.predict{
+    position: absolute;
+    top: 200px;
+    left:550px;
+}
+img{
+    position: absolute;
+    top:250px;
+    left: 610px;
+    width: 200px;
+    height: 200px;
+    outline: none;
+    border: none;
+    
+}
+.pred{
+    position: absolute;
+    top:480px;
+    left: 610px;
+    right: 600px;
+}
+body{
+    background-color: white;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+.footer p{
+    position: relative;
+    bottom: -5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
