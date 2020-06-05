@@ -1,1 +1,1 @@
-# fashion-demo
+# cats-and-dogs
